@@ -1,0 +1,16 @@
+E:\EDUCATION\APPLICATIONS\HappyDbAccess\HappyDbAccess\Demo\bin\Debug\Demo.exe.config
+E:\EDUCATION\APPLICATIONS\HappyDbAccess\HappyDbAccess\Demo\bin\Debug\Demo.exe
+E:\EDUCATION\APPLICATIONS\HappyDbAccess\HappyDbAccess\Demo\bin\Debug\Demo.pdb
+E:\EDUCATION\APPLICATIONS\HappyDbAccess\HappyDbAccess\Demo\bin\Debug\HappyDbAccess.dll
+E:\EDUCATION\APPLICATIONS\HappyDbAccess\HappyDbAccess\Demo\bin\Debug\HappyDbAccess.pdb
+E:\EDUCATION\APPLICATIONS\HappyDbAccess\HappyDbAccess\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\EDUCATION\APPLICATIONS\HappyDbAccess\HappyDbAccess\Demo\obj\Debug\Demo.exe
+E:\EDUCATION\APPLICATIONS\HappyDbAccess\HappyDbAccess\Demo\obj\Debug\Demo.pdb
+D:\GIT\HappyDbAccess\HappyDbAccess\Demo\bin\Debug\Demo.exe.config
+D:\GIT\HappyDbAccess\HappyDbAccess\Demo\obj\Debug\Demo.exe
+D:\GIT\HappyDbAccess\HappyDbAccess\Demo\obj\Debug\Demo.pdb
+D:\GIT\HappyDbAccess\HappyDbAccess\Demo\bin\Debug\Demo.exe
+D:\GIT\HappyDbAccess\HappyDbAccess\Demo\bin\Debug\Demo.pdb
+D:\GIT\HappyDbAccess\HappyDbAccess\Demo\bin\Debug\HappyDbAccess.dll
+D:\GIT\HappyDbAccess\HappyDbAccess\Demo\bin\Debug\HappyDbAccess.pdb
+D:\GIT\HappyDbAccess\HappyDbAccess\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
